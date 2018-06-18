@@ -10,10 +10,12 @@ after initial education intervention
 
 ### Cohen's d=0.6, medium effect size
 1 month after inital education intervention
+
 ![Month1](Month1.png) 
 
 
 ### Cohen's d=0.8, large effect size
 6 months after initial education intervention
+
 ![Month6](Month6.png) 
 
