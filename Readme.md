@@ -19,6 +19,6 @@ after initial education intervention
 
 ![Month6](Month6.png) 
 
-##GIF
+## Animation
 
 ![animation](https://github.com/BlytheErin/PAM/blob/master/animation.gif)
