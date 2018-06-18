@@ -21,4 +21,4 @@ after initial education intervention
 
 ##GIF
 
-![animation](https://github.com/BlytheErin/PAM/animation.gif)
+![animation](https://github.com/BlytheErin/PAM/blob/master/animation.gif)
