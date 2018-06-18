@@ -1,4 +1,4 @@
-#The change in the Patient Activation Measure(PAM):
+# The change in the Patient Activation Measure(PAM):
 ## The individial's knowledge, skill and confidence for managing one's health and healthcare.
 
 ### Cohen's d=0.4, small effect size
