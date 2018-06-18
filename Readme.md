@@ -19,3 +19,6 @@ after initial education intervention
 
 ![Month6](Month6.png) 
 
+##GIF
+
+![animation](https://github.com/BlytheErin/PAM/animation.gif)
