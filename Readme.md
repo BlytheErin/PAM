@@ -5,7 +5,7 @@
 after initial education intervention
 
 
-![post](post.png) 
+![Post](Post.png) 
 
 
 ### Cohen's d=0.6, medium effect size
